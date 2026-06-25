@@ -5,7 +5,7 @@ description = "Django project template"
 requires-python = ">=3.12"
 dependencies = [
   "django>=6.0",
-  "django-environ>=0.13.0",
+  "django-environ>=0.14.0",
   "django-rich>=2.2.0",
   "whitenoise[brotli]>=6.11.0",
 ]
